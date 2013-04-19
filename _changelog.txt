@@ -1,0 +1,83 @@
+<h1>TVSBlog</h1>
+
+<h2><u>Version 1.3.1:</u></h2>
+
+- FB_Tags verbessert
+- Fehler bei RexSEO-Integration behoben...
+- CKEditor-Unterstützung
+- RexSEO42-Unterstützung
+
+<h2><u>Version 1.3:</u></h2>
+
+- Rexseo-Integration (Großen Dank an Ronny Kemmereit, designworks Kemmereit, http://dw-k.net)
+- Kategorie-Anzeige im Backend
+
+<h2><u>Version 1.2:</u></h2>
+
+- RSS-Ausgabe verbessert
+
+<h2><u>Version 1.1:</u></h2>
+
+- Berücksichtigung von tvssitemap wenn vorhanden
+
+<h2><u>Version 1.0.1:</u></h2>
+
+- Bugfix bei der Installationsroutine
+
+<h2><u>Version 1.0:</u></h2>
+
+- wmuSlider wird automatisch für Teasergalerien eingebunden (ACHTUNG: Setzt jQuery (http://jquery.com) voraus!)
+- TinyMCE oder Markitup als Editor einbinden
+- Facebook-Comment aktualisiert
+- RSS-Ausgabe jetzt valide ;-)
+
+<h2><u>Version 0.92:</u></h2>
+
+- RSS-Feed-Ausgabe optimiert
+- Datum pro Eintrag kann gesetzt werden
+
+<h2><u>Version 0.91:</u></h2>
+
+- Fehlerbehebungen
+- Korrekte Einbindung von Facebook-Tags für Link-Teilung
+- Kürzung von Artikeln nun per Zeichenbegrenzung möglich -> Anteasern...
+- Facebook-Metatags werden nun gesetzt, Bild kann je Artikel gesetzt werden
+
+<h2><u>Version 0.8:</u></h2>
+
+- Facebook-Like-Button eingebaut wenn keine APP_ID da ist.
+- Facebook-Einbindung optional über die Konfiguration
+
+<h2><u>Version 0.7:</u></h2>
+
+- Facebook-Comment eingebaut ;-) (ACHTUNG! Facebook-Developer-APP_ID wird benötigt: http://developers.facebook.com/setup/)
+
+<h2><u>Version 0.6:</u></h2>
+
+- Bugfix am RSS-Modul (Dank an elricco!)
+
+<h2><u>Version 0.5:</u></h2>
+
+- Bugfixes bei Zugriff auf die Ini-Datei
+
+<h2><u>Version 0.4:</u></h2>
+
+- Code optimiert, Sicherheitslücken behoben (Dank an Christoph Mewes!)
+- RSS-Generierung optionalisiert ;-)
+
+
+<h2><u>Version 0.3:</u></h2>
+
+- Kategorieausgabemodul überarbeitet
+- Fehler bei Redaxo 4.3.1 & TinyMCE behoben -> Wenn TinyMCE nicht angezeigt wird,
+  auf der TinyMCE-Addon-Seite "tvsblog" noch zusätzlich als Seite hinzufügen!
+
+
+<h2><u>Version 0.2:</u></h2>
+
+- RSS-Feed-Funktion eingefügt
+- Fehler bei Redaxo 4.3.1 behoben
+
+<h2><u>Version 0.1:</u></h2>
+
+- Erste Release
