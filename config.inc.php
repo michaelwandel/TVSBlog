@@ -8,14 +8,14 @@
 	 * @version $Id: config.inc.php,v 1.0 2010/07/16 12:00:00 kills Exp $
 	 */
 
-	$mypage = 'tvsblog'; // only for this file
+	$mytvsblogpage = 'tvsblog'; // only for this file
 
-	$REX['ADDON']['page'][$mypage] = $mypage;
-	$REX['ADDON']['rxid'][$mypage] = '765';
-	$REX['ADDON']['name'][$mypage] = 'TvsBlog';
-	$REX['ADDON']['perm'][$mypage] = 'tvsblog[]';
-	$REX['ADDON']['version'][$mypage] = "1.3.1";
-	$REX['ADDON']['author'][$mypage] = "Michael Wandel | THAVIS GmbH & Co. KG";
+	$REX['ADDON']['page'][$mytvsblogpage] = $mytvsblogpage;
+	$REX['ADDON']['rxid'][$mytvsblogpage] = '765';
+	$REX['ADDON']['name'][$mytvsblogpage] = 'TvsBlog';
+	$REX['ADDON']['perm'][$mytvsblogpage] = 'tvsblog[]';
+	$REX['ADDON']['version'][$mytvsblogpage] = "1.3.2";
+	$REX['ADDON']['author'][$mytvsblogpage] = "Michael Wandel | THAVIS GmbH & Co. KG";
 
 	$REX['PERM'][] = 'tvsblog[]';
 

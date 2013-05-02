@@ -1,4 +1,4 @@
-<h1><u>TvsBlog 1.3.1</u></h1>
+<h1><u>TvsBlog 1.3.2</u></h1>
 
 Einfach gehaltenes Addon um eine Blog-Funktionalität bereitzustellen.
 
@@ -19,6 +19,11 @@ Danke an Ralf Schlott (http://rs-webregie.com) für Ideen und Testing und Ronny 
 
 <u>To Do:</u>
 - Mehrsprachigkeit
+
+<u>Known issues:</u>
+- Bei der Ausgabe werden die Offline-gesetzten Kategorien nicht richtig gezählt,
+  kann sein die Artikelausgabe auf der ersten Seite leer ist, wenn mehrere Seiten vorhanden sind...
+  Muss ich was dran tun ;-)
 
 (c) THAVIS GmbH & Co. KG, Michael Wandel, wandel[at]thavis[dot]com
 

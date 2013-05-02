@@ -197,6 +197,11 @@
 		echo "</script>";
 	}
 
+	$settings = parse_ini_file($myIniFile);
+	if ($settings['blogArticle_id'] == "") {
+		echo rex_warning("blogArticleID ist nicht gesetzt, bitte in der <a href=\"index.php?page=" . $thispage . "&amp;subpage=config\">Konfiguration</a> einstellen!");
+	}
+
 ?>
 
 <div class="rex-addon-output-v2">
