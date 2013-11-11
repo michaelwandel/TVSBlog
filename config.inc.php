@@ -54,9 +54,9 @@
 						$fb_image = explode(",",$sql->getValue('filelist'));
 						$fb_image = $fb_image[0];
 					}
-					$fb_title = utf8_decode($sql->getValue('title'));
+					$fb_title = ($sql->getValue('title'));
 					$fb_title = str_replace(chr(34),"",$fb_title);
-					$fb_description = utf8_decode(strip_tags($sql->getValue('description')));
+					$fb_description = (strip_tags($sql->getValue('description')));
 					$fb_description = str_replace(chr(34),"",$fb_description);
 					if (OOAddon :: isAvailable('rexseo') || OOAddon :: isAvailable('rexseo42'))
 						$fb_url = getTVSBlogURL($tvsblog_post_id, $REX['CUR_CLANG']);
